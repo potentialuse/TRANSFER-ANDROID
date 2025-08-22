@@ -1,6 +1,6 @@
 # Transfer
 
-A simple local file server app for Android. Download and upload files quickly across devices over Wi-Fi — no cables, no cloud.
+ A simple local file server app for Android. Download and upload files quickly across devices over Wi-Fi — no cables, no cloud.
 
 <table>
   <tr>
